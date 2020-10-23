@@ -1,1 +1,1 @@
-K8 Hands on collection
+Collection of K8 code snippets
